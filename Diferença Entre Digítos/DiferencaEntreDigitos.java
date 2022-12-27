@@ -21,7 +21,7 @@ public class Main {
 }*/
 
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class DiferencaEntreDigitos {
